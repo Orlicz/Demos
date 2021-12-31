@@ -89,3 +89,4 @@
 82. HTML5+CSS3小实例：篮球弹跳动画
 83. HTML5+CSS3+JS小实例：马赛克背景的按钮特效
 84. HTML5+CSS3小实例：翻书动画
+85. HTML5+CSS3小实例：莫比乌斯环loading动画
