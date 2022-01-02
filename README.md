@@ -91,3 +91,4 @@
 84. HTML5+CSS3小实例：翻书动画
 85. HTML5+CSS3小实例：莫比乌斯环loading动画
 86. HTML5+CSS3+JS小实例：滚动渐变导航栏
+87. HTML5+CSS3+JS小实例：逼真的玻璃卡片悬停效果
