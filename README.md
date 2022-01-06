@@ -95,3 +95,4 @@
 88. HTML5+CSS3小实例：广告灯牌效果的loading动画
 89. HTML5+CSS3小实例：自带射灯的浮雕按钮
 90. HTML5+CSS3小实例：超时空背景的登录界面
+91. HTML5+CSS3小实例：旋转的炫光心形loading动画
