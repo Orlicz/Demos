@@ -102,3 +102,4 @@
 95. HTML5+CSS3小实例：纯CSS实现冒泡loading动画
 96. HTML5+CSS3小实例：3D卡片hover翻转效果
 97. HTML5+CSS3小实例：纯CSS实现开箱子动画
+98. HTML5+CSS3小实例：创意条纹背景的图像悬停效果
