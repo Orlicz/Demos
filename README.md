@@ -115,3 +115,4 @@
 108. HTML5+CSS3+JS小实例：漂亮的导航栏动画效果
 109. HTML5+CSS3小实例：灵动的文字loading加载特效
 110. HTML5+CSS3小实例：百看不腻的旋转loading动画
+111. HTML5+CSS3+JQuery小实例：DIY切换衣服图案
