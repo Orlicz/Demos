@@ -118,3 +118,4 @@
 111. HTML5+CSS3+JQuery小实例：DIY切换衣服图案
 112. HTML5+CSS3小实例：纯CSS实现文本背景扫光效果
 113. HTML5+CSS3+JS小实例：圆形剪切图片光标悬停特效
+114. HTML5+CSS3+JS小实例：Tabbar图标栏动画切换特效
