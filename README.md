@@ -119,3 +119,4 @@
 112. HTML5+CSS3小实例：纯CSS实现文本背景扫光效果
 113. HTML5+CSS3+JS小实例：圆形剪切图片光标悬停特效
 114. HTML5+CSS3+JS小实例：Tabbar图标栏动画切换特效
+115. HTML5+CSS3+JQuery小实例：可爱的熊猫遮眼登录界面
