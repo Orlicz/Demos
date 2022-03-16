@@ -128,3 +128,4 @@
 121. HTML5+CSS3小实例：飞行的钢铁侠loading加载动画
 122. HTML5+CSS3小实例：高光立体壁画式卡片悬停特效
 123. HTML5+CSS3+Vue小实例：3D圆点波浪动画特效
+124. HTML5+CSS3小实例：丝滑切换的loading加载动画
