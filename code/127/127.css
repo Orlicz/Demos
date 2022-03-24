@@ -33,14 +33,18 @@ body{
 }
 .card .text{
     position: absolute;
-    /* inset:30px相当于top,right,bottom,left均为30px */
-    inset: 30px;
+    top: 30px;
+    left: 30px;
+    bottom: 30px;
+    right: 30px;
     padding: 0 18px;
 }
 .card .text::before{
     content: "";
     position: absolute;
-    inset: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
     left: 100%;
     border-left: 4px solid rgba(255,255,255,0.8);
     background-color: rgba(255,255,255,0.5);

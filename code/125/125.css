@@ -21,8 +21,10 @@ body{
 .container::after{
     content: "";
     position: absolute;
-    /* inset为0，相当于top、left、bottom、right都为0的缩写 */
-    inset: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
     background: url("images/bg.jpg") no-repeat;
     background-size: 500px;
     background-position: left bottom;
