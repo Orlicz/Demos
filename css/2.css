@@ -60,6 +60,8 @@ body{
     font-size: 20px;
     background-color: #fff;
     border-radius: 30px;
+    /* 隐藏旋转div元素的背面 */
+    backface-visibility: hidden;
 }
 .back{
     /* 因为背面卡片要到后面去，所以我们给背面卡片加一个沿Y轴旋转180度的属性，这里我们可以看到旋转了，但是没到后面去，原因就是父盒子现在不是3D盒子，而是一个2D盒子，所以我们需要让父元素变成一个3D盒子（哈哈，有点啰嗦了） */
